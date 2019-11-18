@@ -1,0 +1,10 @@
+{
+  "name": "single-spa-simple-example",
+  "version": "1.0.0",
+  "description": "Working through single-spa tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/raydot/single-spa-simple-example",
+  "author": "Dave Kanter",
+  "license": "Unlicense",
+  "private": false
+}
